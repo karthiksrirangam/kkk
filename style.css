@@ -1,0 +1,26 @@
+#mapwrapper {
+	max-width: 520px;
+	margin: 0 auto;
+	padding: 0 0;
+	background-color: #fff;
+	min-width: 320px;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none; 
+}
+#state {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 48px;
+}
+#districtnames {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 48px;
+}
+#mapbase svg {
+	max-height: 100%;
+	width: 100%;
+	margin: 0;
+}
